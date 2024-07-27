@@ -1,3 +1,5 @@
+[My online preview](https://1920836569s-organization.gitbook.io/heterogeneous-computing-with-opencl-2.0)
+
 
 Heterogeneous Computing with OpenCL 2.0
 =========================
